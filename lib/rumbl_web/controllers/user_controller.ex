@@ -7,6 +7,4 @@ defmodule RumblWeb.UserController do
     users = Accounts.list_users()
     render(conn, "index.html", users: users)
   end
-
-  def
 end

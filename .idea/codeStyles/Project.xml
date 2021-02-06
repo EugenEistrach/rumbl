@@ -1,9 +1,11 @@
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
-    <CsvCodeStyleSettings>
-      <option name="SPACE_BEFORE_SEPARATOR" value="true" />
-      <option name="SPACE_AFTER_SEPARATOR" value="true" />
-    </CsvCodeStyleSettings>
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </value>
+    </option>
     <JavaCodeStyleSettings>
       <option name="GENERATE_FINAL_LOCALS" value="true" />
       <option name="GENERATE_FINAL_PARAMETERS" value="true" />
